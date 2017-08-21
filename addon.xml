@@ -16,7 +16,7 @@
 		<source>https://github.com/vdb86/resource.images.languageflags.completepack</source>
 		<news>1.0.0 (2017-08.21) - Initial release</news>
 		<assets>
-			<icon>resources/icon.png</icon>
+			<icon>icon.png</icon>
 		</assets>
 	</extension>
 </addon>
